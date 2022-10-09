@@ -1,0 +1,4 @@
+This is a Grid Handler
+GridinEditor.cs is renedering grid on the playboard in Editor
+GridinGame.cs is rendring grid on the board during runtime
+GridMesh.cs is handling array of indecies for Grid nodes which will be then utilized in a DragandDrop script
